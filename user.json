@@ -1,0 +1,62 @@
+{
+    "name": "Avi Flax",
+    "currency": "USD",
+    "email": "avi@aviflax.com",
+    "mailingaddress": {
+        "line1": "400 Central Park W",
+        "line2": "Apt 10M",
+        "city": "New York",
+        "province": "NY",
+        "postal-code": "10025",
+        "country": "USA"
+    }
+    "fund-contributions": {
+        "daily": 10,
+        "weekly": 30,
+        "monthly": 0
+    },
+    "causes": [
+        {
+            "type": "organization",
+            "orgid": "12796",
+            "name": "American Friends of Meir Panim",
+            "portion": 0.1,
+            "added": "2012-01-18T12:33:11Z",
+            "contact-allowed": "true"
+        },
+        {
+            "type": "organization",
+            "orgid": "3513",
+            "name": "City Harvest",
+            "portion": 0.1,
+            "added": "2012-01-18T12:33:11Z",
+            "contact-allowed": "true"
+        },        
+    ],
+    "ledger": {
+        {
+            "date": "2012-01-18T12:33:11Z",
+            "amount": 10,
+            "type": "contribution"
+        },
+        {
+            "date": "2011-12-31T00:00:01Z",
+            "amount": -50,
+            "type": "disbursement"
+            "recipient": {
+                "type": "organization",
+                "orgid": "3513",
+                "name": "City Harvest",
+                "portion": 0.1,
+                "added": "2012-01-18T12:33:11Z",
+                "contact-allowed": "true"
+            }
+        }
+    },
+    "history": [
+        {
+            "date": "2012-01-18T12:33:11Z",
+            "description": "changed cause selections"
+        }
+    ]
+}
