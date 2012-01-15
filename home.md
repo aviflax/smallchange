@@ -16,19 +16,33 @@ GiveDaily is a platform and a community designed to help you make small daily co
 
 6. You can change your choices, withdraw your funds, or cancel your account at any time. It’s your money and you’re in charge.
 
+7. We make sure you get receipts for all your tax-deductible disbursements.
+
+8. We require that recipient causes respect how you wish to be contacted.
+
 See our [FAQ](faq.html) for more.
 
 ## Why?
-We feel that daily giving is a powerful way for anyone to make a real difference in the world.
+We feel that regular giving is a powerful way for anyone to make a real difference in the world. Many people don’t have regular opportunities to give, and it can be tough choosing what causes to support. We want to bridge these gaps by making giving automatic and smart.
 
 ## Get Started!
 
 There are 3 steps to signing up:
 
-1. Choose your daily contribution amount
+1. Choose your contribution frequency and amount
 2. Choose which causes should get how much of your monthly disbursement
 3. Authorize the daily debit from your bank account with our payment partner
 
-### Step 1: Daily Contribution Amount
+### Step 1: Contribution Frequency & Amount
 
-Enter your daily contribution: <input type="number" min="1" max="10" required> <input type="submit" value="Continue">
+How much would you like to contribute to your personal fund, and how often?
+
+$<input type="number" min="1" max="10" size="3"> every day ($1-10 [why?]())
+
+$<input type="number" min="1" max="10" size="4"> every week
+
+$<input type="number" min="1" max="10" size="4"> every month
+
+If you’d like some guidance, we’d be [happy to help!]() 
+
+<input type="submit" value="Continue">

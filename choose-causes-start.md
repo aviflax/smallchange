@@ -1,6 +1,6 @@
 ## GiveDaily
 
-# Choose Your Causes
+# Step 2: Choose Your Causes
 
 ## Search
 <input type="search" placeholder="Enter a topic, organization name, location, or anything else" size="65"> <input type="submit" value="Search Everything">
