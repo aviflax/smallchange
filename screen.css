@@ -1,5 +1,6 @@
 body {
 	font-family: "Palatino";
+	line-height: 120%;
 }
 
 header {
@@ -10,6 +11,25 @@ header {
 	padding: 1px 5px;
 }
 
+section {
+	margin: 1em 0;
+	border-top: 1px solid silver;
+}
+
 label {
 	display: block;
+	margin: 0.5em 0;
+}
+
+li {
+	margin: 1em 0;
+}
+
+ul {
+	padding: 0 1em;
+}
+
+#choose-causes ul > li {
+	list-style-type: none;
+	margin: 0.5em 0;
 }
