@@ -4,27 +4,58 @@
     <meta charset="utf-8">
     <title>GiveDaily » Choose your Causes</title>
     <link rel="stylesheet" href="screen.css" type="text/css" media="screen" charset="utf-8">
+    <style>
+        label {
+            display: inline-block;
+            width: 10em;
+            margin: 1em 0;
+        }
+        
+        section {
+            border: none;
+        }
+    </style>
 </head>
 <body>
 <h2>GiveDaily</h2>
 
 <h1>Step 2: Choose Your Causes</h1>
 
-<h2>Review Your Choices</h2>
+<h2>Divide your monthly disbursements</h2>
 
-<p>You’ve chosen the following causes to receive monthly disbursements from your charity fund:</p>
+<p>You can divide up your monthly disbursements however you’d like.</p>
 
-<h3>American Friends of Magen David Adom</h3>
+<section>
+    <label>American Friends of Magen David Adom</label>
+    <input id="amount_cause_4687" type="range" min="1" max="390">
+    <output for="amount_cause_4687">$80</output>
+</section>
 
-<h3>American Society for the Prevention of Cruelty to Animals</h3>
+<section>
+    <label>American Society for the Prevention of Cruelty to Animals</label>
+    <input type="range" min="1" max="390">
+    <output>$80</output>
+</section>
 
-<h3>City Harvest</h3>
+<section>
+    <label>City Harvest</label>
+    <input type="range" min="1" max="390">
+    <output>$80</output>
+</section>
+ 
+<section>
+    <label>Electronic Frontier Foundation</label>
+    <input type="range" min="1" max="390">
+    <output>$80</output>
+</section>
 
-<h3>Electronic Frontier Foundation</h3>
+<section>
+    <label>Friends of the Israel Defense Forces</label>
+    <input type="range" min="1" max="390">
+    <output>$80</output>
+</section>
 
-<h3>Friends of the Israel Defense Forces</h3>
-
-<hr>
+<p>Total: $400 per month</p>
 
 <button onclick="document.location='authorize-payment.html'">Continue to Step 3: Authorize Payment</button>
 
