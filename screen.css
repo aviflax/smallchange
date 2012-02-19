@@ -16,6 +16,11 @@ section {
 	border-top: 1px solid silver;
 }
 
+h3 {
+	margin-top: 1.75em;
+	margin-bottom: 0.5em
+}
+
 label {
 	display: block;
 	margin: 0.5em 0;
