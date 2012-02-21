@@ -12,15 +12,21 @@
 * Look into שבת
 
 
-## Copy Ideas
+## Copy/UI Ideas
 * Consider emphasizing:
 ** No commitment
 ** No pledges
 ** Personal
+* More visual, less textual
+** Represent disbursements with a live chart
+** Represent disbursement history graphically somehow
+** Browse locations — map of the world
+** See menu of Naked Pizza in Boston
 
 
 ## Roadmap
 * Groups
+* “Spotlight” — featured causes
 * Updates from Causes
 * Community
 * Drives
@@ -33,5 +39,10 @@
 ** meals, things
 ** volunteer time
 
+## Where do you give? submission
 
+### Image ideas
+* Maybe the visual chart/graph which shows where you’ve given over time
+* Storyboard of the home page and signup process
+* some kind of graphic explaining the concept
 
