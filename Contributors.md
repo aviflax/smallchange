@@ -1,5 +1,5 @@
-Elina Flax
-Sima Shimansky
-Daniel Braunfeld
-André Phillipe Katz
-Marianne Katz
+* André Phillipe Katz
+* Daniel Braunfeld
+* Elina Flax
+* Marianne Katz
+* Sima Shimansky
